@@ -1,10 +1,7 @@
-[![MasterHead](https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif)](https://(https://bio.link/sandeshh))
+[![MasterHead](https://camo.githubusercontent.com/6830d490599548dabe7192568ede046a2249c58f3111f39a11098132cd0b1bb4/68747470733a2f2f7237713677397a362e726f636b657463646e2e6d652f6361726565722f77702d636f6e74656e742f75706c6f6164732f323032302f30332f67697068792d372e676966)](https://(https://bio.link/sandeshh))
 
 <h1 align="center">Hi 👋, I'M Sandesh yadav</h1>
 <h3 align="center">A passionate Full-stack developer</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sandesh4548" alt="sandesh4548" /></a> </p>
 
 - 🌱 I’m currently learning **JavaScript**
 
