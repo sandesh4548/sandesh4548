@@ -1,17 +1,13 @@
-[![MasterHead](https://camo.githubusercontent.com/6830d490599548dabe7192568ede046a2249c58f3111f39a11098132cd0b1bb4/68747470733a2f2f7237713677397a362e726f636b657463646e2e6d652f6361726565722f77702d636f6e74656e742f75706c6f6164732f323032302f30332f67697068792d372e676966)](https://(https://bio.link/sandeshh))
-
 <h1 align="center">Hi 👋, I'M Sandesh yadav</h1>
 <h3 align="center">A passionate Full-stack developer</h3>
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 currently learning **JavaScript**
 
 - 👨‍💻 All of my projects are available at [https://bio.link/sandeshh](https://bio.link/sandeshh)
 
 - 💬 Ask me about **HTML, CSS, JS**
 
 - 📫 How to reach me **sandesh4548@gmail.com**
-
-- ⚡ Fun fact **idk**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
