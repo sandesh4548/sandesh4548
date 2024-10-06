@@ -3,8 +3,6 @@
 
 - 🌱 currently learning **idk**
 
-- 👨‍💻 All of my projects are available at [https://bio.link/sandeshh](https://bio.link/sandeshh)
-
 - 💬 Ask me about **HTML, CSS, JS, PHP, React, Python, Ai, anything related to tech**
 
 - 📫 How to reach me **sandesh4548@gmail.com**
@@ -13,7 +11,7 @@
 <p align="left">
 <a href="https://dev.to/happierr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="happierr" height="30" width="40" /></a>
 <a href="https://twitter.com/graphix45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="graphix45" height="30" width="40" /></a>
-<a href="https://instagram.com/graphix_45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="graphix_45" height="30" width="40" /></a>
+<a href="https://www.instagram.com/sandeshh_901/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="graphix_45" height="30" width="40" /></a>
 <a href="https://discord.gg/971718823113818163" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="971718823113818163" height="30" width="40" /></a>
 </p>
 
