@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'M Sandesh yadav</h1>
-<h3 align="center">A passionate Full-stack developer</h3>
+<h1 align="center">Hi 👋, I'M Sandesh Yadav</h1>
+<h3 align="center">Aspiring Digital Nomad and developer</h3>
 
-- 🌱 currently learning **JavaScript**
+- 🌱 currently learning **idk**
 
 - 👨‍💻 All of my projects are available at [https://bio.link/sandeshh](https://bio.link/sandeshh)
 
-- 💬 Ask me about **HTML, CSS, JS**
+- 💬 Ask me about **HTML, CSS, JS, PHP, React, Python, Ai, anything related to tech**
 
 - 📫 How to reach me **sandesh4548@gmail.com**
 
