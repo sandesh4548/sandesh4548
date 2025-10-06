@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'M Sandesh Yadav</h1>
 <h3 align="center">Aspiring Digital Nomad and developer</h3>
 
-- 🌱 currently learning **idk**
+- 🌱 currently learning **404**
 
 - 💬 Ask me about **HTML, CSS, JS, PHP, React, Python, Ai, anything related to tech**
 
