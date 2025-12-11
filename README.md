@@ -3,7 +3,7 @@
 
 - 🌱 currently learning **404**
 
-- 💬 Ask me about **HTML, CSS, JS, PHP, React, Python, Ai, anything related to tech**
+- 💬 Ask me about **iot, mechatronics, Hackathons, HTML, CSS, SAAS, Node JS, JS, PHP, React, Python, Ai, anything related to tech**
 
 - 📫 How to reach me **sandesh4548@gmail.com**
 
